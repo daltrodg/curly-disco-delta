@@ -9,6 +9,7 @@ body {
 }
 
 .content {
+  font-family: 'Kanit', sans-serif;
   color: darkred;
   background-color: turquoise;
   height: 400px; 
